@@ -36,3 +36,31 @@ This project includes a **working REST API backend** and a **simple frontend UI*
 
 ## 📁 Project Structure
 
+voice-detector/
+│
+├── app.py # FastAPI backend
+├── analyzer.py # Audio analysis logic
+├── index.html # Frontend UI
+├── requirements.txt # Python dependencies
+└── README.md
+
+
+
+---
+
+## 🛠 Tech Stack
+
+- **Backend:** FastAPI, Python
+- **Frontend:** HTML, CSS, JavaScript
+- **API Type:** REST
+- **Deployment:** Render / Railway
+
+---
+
+## ▶️ Run Locally
+
+### 1️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
+
+
